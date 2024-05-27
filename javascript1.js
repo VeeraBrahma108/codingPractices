@@ -1,0 +1,20 @@
+var a=10;
+a=20;
+console.log(a);
+let p=90;
+console.log(p);
+var h=80;
+console.log(h);
+const con=10;
+console.log(con);
+let a1=25;
+a1=35;
+console.log(a1);
+var a=100;
+a=105;
+console.log(a);
+console.log(h1);//undefined---hoisting.
+var h1;
+h1=200;
+console.log(h1);
+console.log("end");
